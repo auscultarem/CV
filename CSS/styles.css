@@ -1,15 +1,30 @@
 h2{
- color: #FFBF86;
+  margin-left: 10px;
 }
+
+
 body{
-background-color: #CEE5D0;
+    margin: 0;
+    background-color: #CEE5D0;
 }
 
 hr {
 border-style: none;
 border-top-style: dotted;
-border-color: gray;
+border-color: #FFBF86;
 border-width: 5px;
 width = 30px;
 }
+
+.top-container{
+    background-color: #CEE5D0;
+    margin: 0;
+
+}
+
+.middle-container{
+    background-color: #F3F0D7;
+}
+
+
 
