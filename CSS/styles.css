@@ -1,10 +1,12 @@
 p{
     color: #053742;
+    text-align : "center";
+    margin-bottom: 5px;
 }
-
 
 h1{
     color: #053742;
+    margin-top: 5;
 }
 
 h2{
@@ -13,9 +15,6 @@ h2{
   text-align : "center";
 }
 
-p{
-    text-align : "center";
-}
 
 a{
  color: #A2DBFA;
@@ -46,6 +45,7 @@ border-style: none;
 border-top-style: dotted;
 border-color: #E8F0F2;
 border-width: 5px;
+margin-top: 8px;
 width:30%;
 
 }
