@@ -53,6 +53,7 @@ width:30%;
 .top-container{
     background-color: #39A2DB;
     margin: 0 auto 0 auto;
+    line-height: 2;
 
 }
 
@@ -60,7 +61,7 @@ width:30%;
     background-color: #A2DBFA;
     padding-bottom: 5px;
     margin: 0 auto 0 auto;
-
+    line-height: 2;    
 }
 
 .top-personal{
@@ -104,4 +105,14 @@ width:30%;
   text-decoration: none;
 }
 
+.skills-cointainer{
+    width: 50%;
+    margin: auto 0 auto 0;
+}
+
+.coding-img {
+    border-radius: 100%;
+    width: 20%;      
+
+}
 
